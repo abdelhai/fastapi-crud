@@ -1,3 +1,3 @@
-Run `deta new` to deploy.
+[![Deploy](https://button.deta.dev/1/svg)](https://go.deta.dev/deploy)
 
-Write-up coming soon.
+Or run `deta new` to deploy.
